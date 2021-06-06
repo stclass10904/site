@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/en/categories/</loc>
+    <loc>https://stclass10904.github.io/site/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/categories/"
+                href="https://stclass10904.github.io/site/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/categories/"
+                href="https://stclass10904.github.io/site/en/categories/"
                 />
   </url><url>
-    <loc>http://example.org/en/</loc>
+    <loc>https://stclass10904.github.io/site/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/"
+                href="https://stclass10904.github.io/site/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/"
+                href="https://stclass10904.github.io/site/en/"
                 />
   </url><url>
-    <loc>http://example.org/en/series/</loc>
+    <loc>https://stclass10904.github.io/site/en/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/series/"
+                href="https://stclass10904.github.io/site/ko/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/series/"
+                href="https://stclass10904.github.io/site/en/series/"
                 />
   </url><url>
-    <loc>http://example.org/en/tags/</loc>
+    <loc>https://stclass10904.github.io/site/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="http://example.org/ko/tags/"
+                href="https://stclass10904.github.io/site/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/en/tags/"
+                href="https://stclass10904.github.io/site/en/tags/"
                 />
   </url>
 </urlset>
