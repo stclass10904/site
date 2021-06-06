@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pure theme for Hugo</title>
-    <link>https://stclass10904.github.io/site/</link>
-    <description>Recent content on Pure theme for Hugo</description>
+    <title>Coding on Pure theme for Hugo</title>
+    <link>https://stclass10904.github.io/site/categories/coding/</link>
+    <description>Recent content in Coding on Pure theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>CC BY 4.0 CN</copyright>
-    <lastBuildDate>Mon, 01 Mar 2021 04:08:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2020 03:42:51 +0000</lastBuildDate>
     
-        <atom:link href="https://stclass10904.github.io/site/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://stclass10904.github.io/site/categories/coding/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
